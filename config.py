@@ -51,7 +51,7 @@ SITE = {
 	# Base domain to be used in xm sitemaps and feed urls
 	# Please add full url with http or https
 	# defaults to host name of the app("localhost")
-	'domain_url': 'https://rainmatter.github.io',
+	'domain_url': 'https://blog.rainmatter.com',
 
 	# enforce SSL
 	# if ssl enforced then canonical link will be added and users will redireced to ssl version of the site
